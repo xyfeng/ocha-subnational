@@ -1,0 +1,529 @@
+indicator_name,region_name,admin1_name,admin2_name,period,value,region,admin1,admin2,indID,units
+Percentage of households with poor food consumption,Benin,Alibori,NA,2008,0.0,BEN,609,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Atlantique,NA,2008,0.63761629444039,BEN,611,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Borgou,NA,2008,0.0,BEN,612,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Collines,NA,2008,2.96974858440346,BEN,613,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Couffo,NA,2008,6.19417827876139,BEN,614,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Donga,NA,2008,2.56371823729648,BEN,615,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Littoral,NA,2008,0.0,BEN,616,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Mono,NA,2008,3.52713241184108,BEN,617,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Oueme,NA,2008,0.842689086036564,BEN,618,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Plateau,NA,2008,0.0,BEN,619,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,NA,NA,2008,1.8,BEN,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Alibori,NA,2013,1.0,BEN,609,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Atlantique,NA,2013,2.0,BEN,611,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Borgou,NA,2013,7.0,BEN,612,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Collines,NA,2013,1.0,BEN,613,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Couffo,NA,2013,20.0,BEN,614,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Donga,NA,2013,8.0,BEN,615,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Littoral,NA,2013,0.0,BEN,616,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Mono,NA,2013,15.0,BEN,617,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Oueme,NA,2013,3.0,BEN,618,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,Plateau,NA,2013,1.0,BEN,619,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Benin,NA,NA,2013,5.0,BEN,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,Muyinga,NA,2008,8.6,BDI,40554,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,Kirundo,NA,2008,2.2,BDI,40551,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,Cibitoke,NA,2008,7.7,BDI,40547,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,Ngozi,NA,2008,8.2,BDI,40556,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,Kayanza,NA,2008,1.3,BDI,40550,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,Cankuzo,NA,2008,8.7,BDI,40546,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,Karuzi,NA,2008,10.6,BDI,40549,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,Bubanza,NA,2008,3.8,BDI,40542,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,Gitega,NA,2008,3.7,BDI,40548,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,Muramvya,NA,2008,2.2,BDI,40553,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,Ruyigi,NA,2008,4.4,BDI,40558,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,Bujumbura Rural,NA,2008,6.0,BDI,40544,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,Mwaro,NA,2008,2.6,BDI,40555,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,Bururi,NA,2008,1.0,BDI,40545,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,Rutana,NA,2008,3.1,BDI,40557,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,Makamba,NA,2008,0.6,BDI,40552,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Burundi,NA,NA,2008,4.8,BDI,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Cameroon,Nord,NA,2007,4.0,CMR,820,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Cameroon,Adamaoua,NA,2007,10.0,CMR,815,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Cameroon,Ouest,NA,2007,8.0,CMR,822,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Cameroon,Centre,NA,2007,17.0,CMR,816,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Cameroon,Est,NA,2007,7.0,CMR,817,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Cameroon,Littoral,NA,2007,9.0,CMR,819,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Cameroon,Sud,NA,2007,8.0,CMR,823,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Cameroon,NA,NA,2007,9.0,CMR,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Chad,Batha Est,NA,2009,37.4,TCD,12904,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Chad,Kanem,NA,2009,20.4,TCD,12915,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Chad,Lac,NA,2009,15.3,TCD,875,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Chad,Logone Occidental,NA,2009,10.9,TCD,876,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Chad,Logone Oriental,NA,2009,9.3,TCD,12918,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Chad,Salamat,NA,2009,19.7,TCD,881,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Chad,NA,NA,2009,16.4,TCD,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Chad,Bandundu,NA,2007-2008,6.09887157442235,DRC,1066,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Chad,Equateur,NA,2007-2008,2.10510819961725,DRC,1068,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Chad,Kasai Oriental,NA,2007-2008,7.1023324227779,DRC,1070,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Chad,Kasai Occidental,NA,2007-2008,0.998794558291717,DRC,1069,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Chad,Katanga,NA,2007-2008,11.3883424785174,DRC,1071,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Chad,Maniema,NA,2007-2008,4.47677672076105,DRC,1073,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Chad,NA,NA,2007-2008,6.38653705445803,DRC,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Ethiopia,Tigray,NA,2011,2.61179642769831,ETH,1237,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Ethiopia,Afar,NA,2011,1.10386532678662,ETH,1228,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Ethiopia,Amhara,NA,2011,1.97813227720541,ETH,1229,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Ethiopia,Oromia,NA,2011,5.68306650903854,ETH,47678,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Ethiopia,Somali,NA,2011,6.57320184617143,ETH,47679,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Ethiopia,SNNPR,NA,2011,30.5932190319484,ETH,1236,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Ethiopia,Gambela,NA,2011,6.83546141691938,ETH,1232,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Ethiopia,Addis Ababa,NA,2011,7.97989957902827,ETH,1227,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Ethiopia,Dire Dawa,NA,2011,0.370476073080112,ETH,1231,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Ethiopia,NA,NA,2011,9.51963839506532,ETH,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Ghana,NA,NA,2008,1.6,GHA,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Equatorial Guinea,NA,NA,2009,8.4,GNQ,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Haiti,Nord,NA,2007,12.2,HTI,1412,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Haiti,Artibonite,NA,2007,5.7,HTI,1409,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Haiti,Centre,NA,2007,2.9,HTI,1410,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Haiti,Ouest,NA,2007,3.7,HTI,1415,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Haiti,Nippes,NA,2007,2.8,HTI,72912,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Haiti,Sud,NA,2007,3.8,HTI,1416,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Haiti,NA,NA,2007,5.9,HTI,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Lao People's Democratic Republic,NA,NA,2006,2.0,LAO,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Madagascar,NA,NA,2010,11.9,MDG,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Mozambique,Cabo Delgado,NA,2009,15.0,MOZ,2112,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Mozambique,Gaza,NA,2009,18.0,MOZ,2113,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Mozambique,Inhambane,NA,2009,9.0,MOZ,2114,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Mozambique,Manica,NA,2009,15.0,MOZ,2115,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Mozambique,Maputo,NA,2009,6.0,MOZ,41373,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Mozambique,Nampula,NA,2009,3.0,MOZ,2118,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Mozambique,Niassa,NA,2009,4.0,MOZ,2119,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Mozambique,Sofala,NA,2009,3.0,MOZ,2120,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Mozambique,Tete,NA,2009,11.0,MOZ,2121,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Mozambique,Zambezia,NA,2009,12.0,MOZ,2122,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Mozambique,NA,NA,2009,9.1,MOZ,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,NA,NA,2009,4.2,RWA,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,Kigali City/Umujyi wa Kigali,NA,2012,3.0,RWA,21970,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,South/Amajyepfo,NA,2012,3.0,RWA,21972,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,West/Iburengerazuba,NA,2012,8.0,RWA,21973,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,East/Iburasirazuba,NA,2012,1.0,RWA,21969,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,Kigali City/Umujyi wa Kigali,Nyarugenge,2012,0.0,RWA,21970,21996,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,Kigali City/Umujyi wa Kigali,Gasabo,2012,7.0,RWA,21970,21977,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,Kigali City/Umujyi wa Kigali,Kicukiro,2012,1.0,RWA,21970,21985,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,South/Amajyepfo,Nyanza,2012,3.0,RWA,21972,21995,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,South/Amajyepfo,Gisagara,2012,1.0,RWA,21972,21980,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,South/Amajyepfo,Nyaruguru,2012,7.0,RWA,21972,21997,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,South/Amajyepfo,Huye,2012,0.0,RWA,21972,21981,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,South/Amajyepfo,Nyamagabe,2012,6.0,RWA,21972,21993,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,South/Amajyepfo,Ruhango,2012,5.0,RWA,21972,21999,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,South/Amajyepfo,Muhanga,2012,3.0,RWA,21972,21987,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,South/Amajyepfo,Kamonyi,2012,1.0,RWA,21972,21982,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,West/Iburengerazuba,Karongi,2012,12.0,RWA,21973,21983,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,West/Iburengerazuba,Rutsiro,2012,14.0,RWA,21973,22002,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,West/Iburengerazuba,Rubavu,2012,6.0,RWA,21973,21998,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,West/Iburengerazuba,Nyabihu,2012,5.0,RWA,21973,21991,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,West/Iburengerazuba,Ngororero,2012,9.0,RWA,21973,21990,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,West/Iburengerazuba,Rusizi,2012,5.0,RWA,21973,22001,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,West/Iburengerazuba,Nyamasheke,2012,7.0,RWA,21973,21994,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,North/Amajyaruguru,Rulindo,2012,2.0,RWA,21971,22000,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,North/Amajyaruguru,Gakenke,2012,3.0,RWA,21971,21976,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,North/Amajyaruguru,Musanze,2012,2.0,RWA,21971,21988,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,North/Amajyaruguru,Burera,2012,7.0,RWA,21971,21975,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,North/Amajyaruguru,Gicumbi,2012,1.0,RWA,21971,21979,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,East/Iburasirazuba,Rwamagana,2012,1.0,RWA,21969,22003,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,East/Iburasirazuba,Nyagatare,2012,0.0,RWA,21969,21992,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,East/Iburasirazuba,Gatsibo,2012,3.0,RWA,21969,21978,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,East/Iburasirazuba,Kayonza,2012,1.0,RWA,21969,21984,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,East/Iburasirazuba,Kirehe,2012,1.0,RWA,21969,21986,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,East/Iburasirazuba,Ngoma,2012,2.0,RWA,21969,21989,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,East/Iburasirazuba,Bugesera,2012,2.0,RWA,21969,21974,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Rwanda,NA,NA,2012,4.0,RWA,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Sao Tome and Principe,NA,NA,2007,10.2,STP,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Sierra Leone,NA,NA,2010,6.5,SLE,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Sierra Leone,NA,NA,2007,2.4,SLE,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Arusha,NA,2009-2010,6.8,TZA,48357,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Dodoma,NA,2009-2010,3.3,TZA,48359,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Iringa,NA,2009-2010,1.4,TZA,115003,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Kagera,NA,2009-2010,4.4,TZA,115004,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Kigoma,NA,2009-2010,0.5,TZA,48362,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Kilimanjaro,NA,2009-2010,2.7,TZA,48363,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Lindi,NA,2009-2010,5.3,TZA,48364,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Manyara,NA,2009-2010,17.6,TZA,48365,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Mara,NA,2009-2010,1.0,TZA,48366,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Mbeya,NA,2009-2010,0.0,TZA,48367,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Morogoro,NA,2009-2010,4.8,TZA,48368,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Mtwara,NA,2009-2010,20.0,TZA,48369,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Mwanza,NA,2009-2010,3.9,TZA,115006,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Pwani,NA,2009-2010,1.4,TZA,48373,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Rukwa,NA,2009-2010,1.4,TZA,115008,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Ruvuma,NA,2009-2010,1.9,TZA,48375,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Shinyanga,NA,2009-2010,3.8,TZA,115009,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Singida,NA,2009-2010,5.4,TZA,48377,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Tabora,NA,2009-2010,2.4,TZA,48380,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Tanga,NA,2009-2010,0.9,TZA,48381,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",NA,NA,2009-2010,4.1,TZA,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Singida,NA,2005-2006,61.9,TZA,48377,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Tabora,NA,2005-2006,62.7,TZA,48380,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Dodoma,NA,2005-2006,47.6,TZA,48359,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Kagera,NA,2005-2006,15.9,TZA,115004,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Manyara,NA,2005-2006,21.4,TZA,48365,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Mwanza,NA,2005-2006,26.2,TZA,115006,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Mtwara,NA,2005-2006,19.8,TZA,48369,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Kigoma,NA,2005-2006,11.1,TZA,48362,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Ruvuma,NA,2005-2006,18.3,TZA,48375,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Iringa,NA,2005-2006,29.4,TZA,115003,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Morogoro,NA,2005-2006,20.6,TZA,48368,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Lindi,NA,2005-2006,7.1,TZA,48364,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Arusha,NA,2005-2006,13.5,TZA,48357,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Mara,NA,2005-2006,15.9,TZA,48366,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Rukwa,NA,2005-2006,8.8,TZA,115008,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Tanga,NA,2005-2006,4.0,TZA,48381,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Shinyanga,NA,2005-2006,4.8,TZA,115009,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Kilimanjaro,NA,2005-2006,7.9,TZA,48363,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Pwani,NA,2005-2006,1.6,TZA,48373,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",Mbeya,NA,2005-2006,1.6,TZA,48367,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,"Tanzania, United Republic of",NA,NA,2005-2006,17.7,TZA,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Yemen,NA,NA,2011,22.2,YEM,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with poor food consumption,Yemen,NA,NA,2009-2010,11.8,YEM,NA,NA,CHD.B.FOS.04.T6,Percent
+Percentage of households with borderline food consumption,Benin,Alibori,NA,2008,1.56704296880593,BEN,609,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Atlantique,NA,2008,2.41344700589392,BEN,611,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Borgou,NA,2008,10.8109264802214,BEN,612,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Collines,NA,2008,8.90573000303997,BEN,613,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Couffo,NA,2008,20.8744009201396,BEN,614,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Donga,NA,2008,16.2377487385736,BEN,615,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Littoral,NA,2008,1.84069977593487,BEN,616,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Mono,NA,2008,29.8735255752362,BEN,617,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Oueme,NA,2008,7.58773799417677,BEN,618,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Plateau,NA,2008,2.13822364832397,BEN,619,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,NA,NA,2008,10.4,BEN,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Alibori,NA,2013,15.0,BEN,609,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Atlantique,NA,2013,16.0,BEN,611,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Borgou,NA,2013,27.0,BEN,612,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Collines,NA,2013,26.0,BEN,613,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Couffo,NA,2013,27.0,BEN,614,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Donga,NA,2013,17.0,BEN,615,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Littoral,NA,2013,4.0,BEN,616,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Mono,NA,2013,34.0,BEN,617,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Oueme,NA,2013,9.0,BEN,618,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,Plateau,NA,2013,7.0,BEN,619,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Benin,NA,NA,2013,18.0,BEN,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,Muyinga,NA,2008,22.6,BDI,40554,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,Kirundo,NA,2008,22.8,BDI,40551,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,Cibitoke,NA,2008,28.6,BDI,40547,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,Ngozi,NA,2008,33.1,BDI,40556,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,Kayanza,NA,2008,29.7,BDI,40550,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,Cankuzo,NA,2008,25.4,BDI,40546,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,Karuzi,NA,2008,30.4,BDI,40549,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,Bubanza,NA,2008,26.5,BDI,40542,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,Gitega,NA,2008,18.4,BDI,40548,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,Muramvya,NA,2008,16.0,BDI,40553,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,Ruyigi,NA,2008,20.8,BDI,40558,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,Bujumbura Rural,NA,2008,24.1,BDI,40544,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,Mwaro,NA,2008,25.8,BDI,40555,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,Bururi,NA,2008,8.8,BDI,40545,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,Rutana,NA,2008,16.2,BDI,40557,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,Makamba,NA,2008,7.1,BDI,40552,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Burundi,NA,NA,2008,22.9,BDI,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Cameroon,Nord,NA,2007,5.0,CMR,820,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Cameroon,Adamaoua,NA,2007,14.0,CMR,815,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Cameroon,Ouest,NA,2007,18.0,CMR,822,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Cameroon,Centre,NA,2007,35.0,CMR,816,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Cameroon,Est,NA,2007,28.0,CMR,817,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Cameroon,Littoral,NA,2007,18.0,CMR,819,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Cameroon,Sud,NA,2007,17.0,CMR,823,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Cameroon,NA,NA,2007,17.0,CMR,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Chad,Batha Est,NA,2009,25.2,TCD,12904,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Chad,Kanem,NA,2009,14.5,TCD,12915,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Chad,Lac,NA,2009,12.6,TCD,875,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Chad,Logone Occidental,NA,2009,25.9,TCD,876,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Chad,Logone Oriental,NA,2009,27.3,TCD,12918,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Chad,Salamat,NA,2009,27.9,TCD,881,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Chad,NA,NA,2009,25.0,TCD,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Chad,Bandundu,NA,2007-2008,25.5910800644815,DRC,1066,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Chad,Equateur,NA,2007-2008,25.290740468129,DRC,1068,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Chad,Kasai Oriental,NA,2007-2008,34.1878545913007,DRC,1070,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Chad,Kasai Occidental,NA,2007-2008,17.2894782159463,DRC,1069,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Chad,Katanga,NA,2007-2008,35.2003312972357,DRC,1071,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Chad,Maniema,NA,2007-2008,51.8186905428092,DRC,1073,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Chad,NA,NA,2007-2008,30.0163757360371,DRC,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Ethiopia,Tigray,NA,2011,12.8215543398298,ETH,1237,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Ethiopia,Afar,NA,2011,4.60904221102828,ETH,1228,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Ethiopia,Amhara,NA,2011,9.05791831845075,ETH,1229,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Ethiopia,Oromia,NA,2011,14.1104765864506,ETH,47678,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Ethiopia,Somali,NA,2011,9.81500731015099,ETH,47679,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Ethiopia,SNNPR,NA,2011,32.1770841820571,ETH,1236,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Ethiopia,Gambela,NA,2011,21.5596931004542,ETH,1232,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Ethiopia,Addis Ababa,NA,2011,22.5941512392985,ETH,1227,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Ethiopia,Dire Dawa,NA,2011,10.7536719894838,ETH,1231,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Ethiopia,NA,NA,2011,16.5710969789488,ETH,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Ghana,NA,NA,2008,3.8,GHA,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Equatorial Guinea,NA,NA,2009,23.7,GNQ,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Haiti,Nord,NA,2007,25.7,HTI,1412,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Haiti,Artibonite,NA,2007,20.0,HTI,1409,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Haiti,Centre,NA,2007,15.4,HTI,1410,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Haiti,Ouest,NA,2007,16.2,HTI,1415,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Haiti,Nippes,NA,2007,7.9,HTI,72912,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Haiti,Sud,NA,2007,12.0,HTI,1416,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Haiti,NA,NA,2007,19.1,HTI,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Lao People's Democratic Republic,NA,NA,2006,11.0,LAO,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Madagascar,NA,NA,2010,41.2,MDG,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Mozambique,Cabo Delgado,NA,2009,17.0,MOZ,2112,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Mozambique,Gaza,NA,2009,35.0,MOZ,2113,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Mozambique,Inhambane,NA,2009,34.0,MOZ,2114,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Mozambique,Manica,NA,2009,28.0,MOZ,2115,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Mozambique,Maputo,NA,2009,12.0,MOZ,41373,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Mozambique,Nampula,NA,2009,12.0,MOZ,2118,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Mozambique,Niassa,NA,2009,28.0,MOZ,2119,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Mozambique,Sofala,NA,2009,20.0,MOZ,2120,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Mozambique,Tete,NA,2009,23.0,MOZ,2121,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Mozambique,Zambezia,NA,2009,14.0,MOZ,2122,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Mozambique,NA,NA,2009,18.3,MOZ,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,NA,NA,2009,17.3,RWA,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,Kigali City/Umujyi wa Kigali,NA,2012,3.0,RWA,21970,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,South/Amajyepfo,NA,2012,18.0,RWA,21972,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,West/Iburengerazuba,NA,2012,29.0,RWA,21973,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,East/Iburasirazuba,NA,2012,13.0,RWA,21969,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,Kigali City/Umujyi wa Kigali,Nyarugenge,2012,2.0,RWA,21970,21996,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,Kigali City/Umujyi wa Kigali,Gasabo,2012,4.0,RWA,21970,21977,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,Kigali City/Umujyi wa Kigali,Kicukiro,2012,4.0,RWA,21970,21985,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,South/Amajyepfo,Nyanza,2012,21.0,RWA,21972,21995,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,South/Amajyepfo,Gisagara,2012,16.0,RWA,21972,21980,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,South/Amajyepfo,Nyaruguru,2012,15.0,RWA,21972,21997,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,South/Amajyepfo,Huye,2012,8.0,RWA,21972,21981,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,South/Amajyepfo,Nyamagabe,2012,26.0,RWA,21972,21993,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,South/Amajyepfo,Ruhango,2012,18.0,RWA,21972,21999,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,South/Amajyepfo,Muhanga,2012,23.0,RWA,21972,21987,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,South/Amajyepfo,Kamonyi,2012,13.0,RWA,21972,21982,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,West/Iburengerazuba,Karongi,2012,25.0,RWA,21973,21983,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,West/Iburengerazuba,Rutsiro,2012,39.0,RWA,21973,22002,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,West/Iburengerazuba,Rubavu,2012,22.0,RWA,21973,21998,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,West/Iburengerazuba,Nyabihu,2012,13.0,RWA,21973,21991,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,West/Iburengerazuba,Ngororero,2012,35.0,RWA,21973,21990,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,West/Iburengerazuba,Rusizi,2012,41.0,RWA,21973,22001,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,West/Iburengerazuba,Nyamasheke,2012,30.0,RWA,21973,21994,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,North/Amajyaruguru,Rulindo,2012,23.0,RWA,21971,22000,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,North/Amajyaruguru,Gakenke,2012,22.0,RWA,21971,21976,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,North/Amajyaruguru,Musanze,2012,9.0,RWA,21971,21988,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,North/Amajyaruguru,Burera,2012,19.0,RWA,21971,21975,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,North/Amajyaruguru,Gicumbi,2012,12.0,RWA,21971,21979,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,East/Iburasirazuba,Rwamagana,2012,7.0,RWA,21969,22003,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,East/Iburasirazuba,Nyagatare,2012,2.0,RWA,21969,21992,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,East/Iburasirazuba,Gatsibo,2012,24.0,RWA,21969,21978,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,East/Iburasirazuba,Kayonza,2012,9.0,RWA,21969,21984,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,East/Iburasirazuba,Kirehe,2012,11.0,RWA,21969,21986,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,East/Iburasirazuba,Ngoma,2012,10.0,RWA,21969,21989,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,East/Iburasirazuba,Bugesera,2012,23.0,RWA,21969,21974,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Rwanda,NA,NA,2012,17.0,RWA,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Sao Tome and Principe,NA,NA,2007,12.6,STP,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Sierra Leone,NA,NA,2010,38.5,SLE,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Sierra Leone,NA,NA,2007,26.8,SLE,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Arusha,NA,2009-2010,25.0,TZA,48357,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Dodoma,NA,2009-2010,37.8,TZA,48359,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Iringa,NA,2009-2010,13.1,TZA,115003,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Kagera,NA,2009-2010,10.6,TZA,115004,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Kigoma,NA,2009-2010,10.6,TZA,48362,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Kilimanjaro,NA,2009-2010,11.6,TZA,48363,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Lindi,NA,2009-2010,25.7,TZA,48364,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Manyara,NA,2009-2010,42.9,TZA,48365,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Mara,NA,2009-2010,18.5,TZA,48366,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Mbeya,NA,2009-2010,5.6,TZA,48367,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Morogoro,NA,2009-2010,33.8,TZA,48368,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Mtwara,NA,2009-2010,28.5,TZA,48369,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Mwanza,NA,2009-2010,16.8,TZA,115006,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Pwani,NA,2009-2010,21.7,TZA,48373,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Rukwa,NA,2009-2010,9.6,TZA,115008,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Ruvuma,NA,2009-2010,25.1,TZA,48375,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Shinyanga,NA,2009-2010,13.4,TZA,115009,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Singida,NA,2009-2010,25.5,TZA,48377,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Tabora,NA,2009-2010,11.0,TZA,48380,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Tanga,NA,2009-2010,8.9,TZA,48381,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",NA,NA,2009-2010,18.9,TZA,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Singida,NA,2005-2006,27.0,TZA,48377,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Tabora,NA,2005-2006,26.2,TZA,48380,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Dodoma,NA,2005-2006,26.2,TZA,48359,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Kagera,NA,2005-2006,29.4,TZA,115004,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Manyara,NA,2005-2006,27.0,TZA,48365,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Mwanza,NA,2005-2006,35.7,TZA,115006,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Mtwara,NA,2005-2006,41.3,TZA,48369,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Kigoma,NA,2005-2006,32.5,TZA,48362,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Ruvuma,NA,2005-2006,21.4,TZA,48375,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Iringa,NA,2005-2006,37.3,TZA,115003,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Morogoro,NA,2005-2006,17.5,TZA,48368,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Lindi,NA,2005-2006,31.7,TZA,48364,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Arusha,NA,2005-2006,27.0,TZA,48357,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Mara,NA,2005-2006,31.0,TZA,48366,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Rukwa,NA,2005-2006,24.8,TZA,115008,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Tanga,NA,2005-2006,20.6,TZA,48381,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Shinyanga,NA,2005-2006,23.8,TZA,115009,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Kilimanjaro,NA,2005-2006,12.7,TZA,48363,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Pwani,NA,2005-2006,27.0,TZA,48373,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",Mbeya,NA,2005-2006,11.1,TZA,48367,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,"Tanzania, United Republic of",NA,NA,2005-2006,27.0,TZA,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Yemen,NA,NA,2011,22.3,YEM,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with borderline food consumption,Yemen,NA,NA,2009-2010,19.7,YEM,NA,NA,CHD.B.FOS.05.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Alibori,NA,2008,98.4329570311941,BEN,609,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Atlantique,NA,2008,96.9489366996657,BEN,611,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Borgou,NA,2008,89.1890735197786,BEN,612,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Collines,NA,2008,88.1245214125566,BEN,613,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Couffo,NA,2008,72.931420801099,BEN,614,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Donga,NA,2008,81.1985330241299,BEN,615,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Littoral,NA,2008,98.1593002240651,BEN,616,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Mono,NA,2008,66.5993420129227,BEN,617,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Oueme,NA,2008,91.5695729197867,BEN,618,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Plateau,NA,2008,97.861776351676,BEN,619,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,NA,NA,2008,87.8,BEN,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Alibori,NA,2013,84.0,BEN,609,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Atlantique,NA,2013,82.0,BEN,611,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Borgou,NA,2013,66.0,BEN,612,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Collines,NA,2013,73.0,BEN,613,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Couffo,NA,2013,53.0,BEN,614,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Donga,NA,2013,75.0,BEN,615,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Littoral,NA,2013,96.0,BEN,616,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Mono,NA,2013,51.0,BEN,617,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Oueme,NA,2013,88.0,BEN,618,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,Plateau,NA,2013,92.0,BEN,619,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Benin,NA,NA,2013,77.0,BEN,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,Muyinga,NA,2008,68.7,BDI,40554,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,Kirundo,NA,2008,75.0,BDI,40551,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,Cibitoke,NA,2008,63.7,BDI,40547,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,Ngozi,NA,2008,58.7,BDI,40556,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,Kayanza,NA,2008,69.0,BDI,40550,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,Cankuzo,NA,2008,66.0,BDI,40546,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,Karuzi,NA,2008,59.0,BDI,40549,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,Bubanza,NA,2008,69.7,BDI,40542,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,Gitega,NA,2008,77.9,BDI,40548,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,Muramvya,NA,2008,81.8,BDI,40553,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,Ruyigi,NA,2008,74.9,BDI,40558,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,Bujumbura Rural,NA,2008,69.9,BDI,40544,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,Mwaro,NA,2008,71.7,BDI,40555,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,Bururi,NA,2008,90.2,BDI,40545,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,Rutana,NA,2008,80.7,BDI,40557,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,Makamba,NA,2008,92.3,BDI,40552,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Burundi,NA,NA,2008,72.3,BDI,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Cameroon,Nord,NA,2007,91.0,CMR,820,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Cameroon,Adamaoua,NA,2007,76.0,CMR,815,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Cameroon,Ouest,NA,2007,74.0,CMR,822,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Cameroon,Centre,NA,2007,48.0,CMR,816,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Cameroon,Est,NA,2007,65.0,CMR,817,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Cameroon,Littoral,NA,2007,73.0,CMR,819,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Cameroon,Sud,NA,2007,75.0,CMR,823,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Cameroon,NA,NA,2007,74.0,CMR,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Chad,Batha Est,NA,2009,37.4,TCD,12904,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Chad,Kanem,NA,2009,65.2,TCD,12915,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Chad,Lac,NA,2009,72.2,TCD,875,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Chad,Logone Occidental,NA,2009,63.2,TCD,876,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Chad,Logone Oriental,NA,2009,63.4,TCD,12918,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Chad,Salamat,NA,2009,52.5,TCD,881,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Chad,NA,NA,2009,58.6,TCD,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Chad,Bandundu,NA,2007-2008,68.3100483610962,DRC,1066,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Chad,Equateur,NA,2007-2008,72.6041513322538,DRC,1068,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Chad,Kasai Oriental,NA,2007-2008,58.7098129859214,DRC,1070,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Chad,Kasai Occidental,NA,2007-2008,81.711727225762,DRC,1069,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Chad,Katanga,NA,2007-2008,53.4113262242468,DRC,1071,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Chad,Maniema,NA,2007-2008,43.7045327364298,DRC,1073,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Chad,NA,NA,2007-2008,63.5970872095049,DRC,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Ethiopia,Tigray,NA,2011,84.5666492324719,ETH,1237,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Ethiopia,Afar,NA,2011,94.2870924621852,ETH,1228,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Ethiopia,Amhara,NA,2011,88.963949404344,ETH,1229,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Ethiopia,Oromia,NA,2011,80.2064569045113,ETH,47678,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Ethiopia,Somali,NA,2011,83.6117908436771,ETH,47679,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Ethiopia,SNNPR,NA,2011,37.2296967859945,ETH,1236,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Ethiopia,Gambela,NA,2011,71.6048454826269,ETH,1232,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Ethiopia,Addis Ababa,NA,2011,69.4259491816723,ETH,1227,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Ethiopia,Dire Dawa,NA,2011,88.8758519374361,ETH,1231,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Ethiopia,NA,NA,2011,73.9092646259857,ETH,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Ghana,NA,NA,2008,94.6,GHA,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Equatorial Guinea,NA,NA,2009,67.9,GNQ,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Haiti,Nord,NA,2007,62.1,HTI,1412,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Haiti,Artibonite,NA,2007,74.3,HTI,1409,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Haiti,Centre,NA,2007,81.7,HTI,1410,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Haiti,Ouest,NA,2007,80.1,HTI,1415,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Haiti,Nippes,NA,2007,89.3,HTI,72912,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Haiti,Sud,NA,2007,84.2,HTI,1416,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Haiti,NA,NA,2007,75.0,HTI,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Lao People's Democratic Republic,NA,NA,2006,87.0,LAO,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Madagascar,NA,NA,2010,46.9,MDG,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Mozambique,Cabo Delgado,NA,2009,68.0,MOZ,2112,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Mozambique,Gaza,NA,2009,47.0,MOZ,2113,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Mozambique,Inhambane,NA,2009,57.0,MOZ,2114,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Mozambique,Manica,NA,2009,57.0,MOZ,2115,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Mozambique,Maputo,NA,2009,82.0,MOZ,41373,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Mozambique,Nampula,NA,2009,85.0,MOZ,2118,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Mozambique,Niassa,NA,2009,68.0,MOZ,2119,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Mozambique,Sofala,NA,2009,77.0,MOZ,2120,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Mozambique,Tete,NA,2009,66.0,MOZ,2121,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Mozambique,Zambezia,NA,2009,74.0,MOZ,2122,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Mozambique,NA,NA,2009,72.6,MOZ,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,NA,NA,2009,78.5,RWA,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,Kigali City/Umujyi wa Kigali,NA,2012,93.0,RWA,21970,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,South/Amajyepfo,NA,2012,79.0,RWA,21972,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,West/Iburengerazuba,NA,2012,62.0,RWA,21973,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,East/Iburasirazuba,NA,2012,86.0,RWA,21969,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,Kigali City/Umujyi wa Kigali,Nyarugenge,2012,98.0,RWA,21970,21996,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,Kigali City/Umujyi wa Kigali,Gasabo,2012,90.0,RWA,21970,21977,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,Kigali City/Umujyi wa Kigali,Kicukiro,2012,95.0,RWA,21970,21985,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,South/Amajyepfo,Nyanza,2012,76.0,RWA,21972,21995,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,South/Amajyepfo,Gisagara,2012,83.0,RWA,21972,21980,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,South/Amajyepfo,Nyaruguru,2012,78.0,RWA,21972,21997,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,South/Amajyepfo,Huye,2012,92.0,RWA,21972,21981,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,South/Amajyepfo,Nyamagabe,2012,68.0,RWA,21972,21993,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,South/Amajyepfo,Ruhango,2012,77.0,RWA,21972,21999,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,South/Amajyepfo,Muhanga,2012,74.0,RWA,21972,21987,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,South/Amajyepfo,Kamonyi,2012,86.0,RWA,21972,21982,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,West/Iburengerazuba,Karongi,2012,63.0,RWA,21973,21983,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,West/Iburengerazuba,Rutsiro,2012,47.0,RWA,21973,22002,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,West/Iburengerazuba,Rubavu,2012,72.0,RWA,21973,21998,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,West/Iburengerazuba,Nyabihu,2012,82.0,RWA,21973,21991,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,West/Iburengerazuba,Ngororero,2012,56.0,RWA,21973,21990,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,West/Iburengerazuba,Rusizi,2012,54.0,RWA,21973,22001,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,West/Iburengerazuba,Nyamasheke,2012,63.0,RWA,21973,21994,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,North/Amajyaruguru,Rulindo,2012,75.0,RWA,21971,22000,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,North/Amajyaruguru,Gakenke,2012,76.0,RWA,21971,21976,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,North/Amajyaruguru,Musanze,2012,88.0,RWA,21971,21988,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,North/Amajyaruguru,Burera,2012,74.0,RWA,21971,21975,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,North/Amajyaruguru,Gicumbi,2012,87.0,RWA,21971,21979,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,East/Iburasirazuba,Rwamagana,2012,92.0,RWA,21969,22003,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,East/Iburasirazuba,Nyagatare,2012,98.0,RWA,21969,21992,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,East/Iburasirazuba,Gatsibo,2012,74.0,RWA,21969,21978,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,East/Iburasirazuba,Kayonza,2012,91.0,RWA,21969,21984,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,East/Iburasirazuba,Kirehe,2012,88.0,RWA,21969,21986,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,East/Iburasirazuba,Ngoma,2012,88.0,RWA,21969,21989,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,East/Iburasirazuba,Bugesera,2012,76.0,RWA,21969,21974,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Rwanda,NA,NA,2012,79.0,RWA,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Sao Tome and Principe,NA,NA,2007,77.2,STP,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Sierra Leone,NA,NA,2010,55.0,SLE,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Sierra Leone,NA,NA,2007,70.8,SLE,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Arusha,NA,2009-2010,68.2,TZA,48357,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Dodoma,NA,2009-2010,58.9,TZA,48359,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Iringa,NA,2009-2010,85.4,TZA,115003,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Kagera,NA,2009-2010,85.1,TZA,115004,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Kigoma,NA,2009-2010,88.9,TZA,48362,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Kilimanjaro,NA,2009-2010,85.7,TZA,48363,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Lindi,NA,2009-2010,69.0,TZA,48364,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Manyara,NA,2009-2010,39.6,TZA,48365,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Mara,NA,2009-2010,80.6,TZA,48366,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Mbeya,NA,2009-2010,94.4,TZA,48367,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Morogoro,NA,2009-2010,61.4,TZA,48368,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Mtwara,NA,2009-2010,51.4,TZA,48369,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Mwanza,NA,2009-2010,79.2,TZA,115006,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Pwani,NA,2009-2010,76.9,TZA,48373,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Rukwa,NA,2009-2010,89.1,TZA,115008,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Ruvuma,NA,2009-2010,72.9,TZA,48375,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Shinyanga,NA,2009-2010,82.8,TZA,115009,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Singida,NA,2009-2010,69.1,TZA,48377,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Tabora,NA,2009-2010,86.6,TZA,48380,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Tanga,NA,2009-2010,90.2,TZA,48381,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",NA,NA,2009-2010,77.0,TZA,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Singida,NA,2005-2006,11.1,TZA,48377,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Tabora,NA,2005-2006,10.5,TZA,48380,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Dodoma,NA,2005-2006,26.2,TZA,48359,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Kagera,NA,2005-2006,54.7,TZA,115004,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Manyara,NA,2005-2006,51.6,TZA,48365,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Mwanza,NA,2005-2006,38.1,TZA,115006,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Mtwara,NA,2005-2006,38.9,TZA,48369,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Kigoma,NA,2005-2006,56.3,TZA,48362,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Ruvuma,NA,2005-2006,60.3,TZA,48375,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Iringa,NA,2005-2006,33.3,TZA,115003,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Morogoro,NA,2005-2006,61.9,TZA,48368,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Lindi,NA,2005-2006,61.1,TZA,48364,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Arusha,NA,2005-2006,59.5,TZA,48357,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Mara,NA,2005-2006,53.2,TZA,48366,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Rukwa,NA,2005-2006,66.4,TZA,115008,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Tanga,NA,2005-2006,75.4,TZA,48381,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Shinyanga,NA,2005-2006,71.4,TZA,115009,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Kilimanjaro,NA,2005-2006,79.4,TZA,48363,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Pwani,NA,2005-2006,71.4,TZA,48373,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",Mbeya,NA,2005-2006,87.3,TZA,48367,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,"Tanzania, United Republic of",NA,NA,2005-2006,55.3,TZA,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Yemen,NA,NA,2011,55.5,YEM,NA,NA,CHD.B.FOS.06.T6,Percent
+Percentage of households with acceptable food consumption,Yemen,NA,NA,2009-2010,68.5,YEM,NA,NA,CHD.B.FOS.06.T6,Percent
