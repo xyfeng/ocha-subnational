@@ -54,8 +54,9 @@ for d in download_list:
   code_list.append(get_fao_country_code(d))
 print code_list
 
+result = []
+
 # save state list
-# result = []
 # f = open('WFP/g2014_2013_1_mid/G2014_2013_1_mid.geojson')
 # objects = ijson.items(f, 'features.item.properties')
 # for o in objects:
@@ -71,33 +72,33 @@ print code_list
 #   json.dump(result, outfile, default=decimal_default)
 
 # save city list
-result = []
-f = open('FAO/source/g2014_2013_2_mid/G2014_2013_2_mid.geojson')
-objects = ijson.items(f, 'features.item.properties')
-for o in objects:
-    admin_name = o['ADM2_NAME']
-    print 'Processing: ' + admin_name
-    for c in code_list:
-      if o['ADM0_CODE'] == c:
-        result.append({
-          'code': o['ADM2_CODE'],
-          'name': admin_name
-          })
-        with open('FAO/fao_city.json', 'w') as outfile:
-          json.dump(result, outfile, default=decimal_default)
+# f = open('FAO/source/g2014_2013_2_mid/G2014_2013_2_mid.geojson')
+# objects = ijson.items(f, 'features.item.properties')
+# for o in objects:
+#     admin_name = o['ADM2_NAME']
+#     print 'Processing: ' + admin_name
+#     for c in code_list:
+#       if o['ADM0_CODE'] == c:
+#         result.append({
+#           'code': o['ADM2_CODE'],
+#           'name': admin_name
+#           })
+#         with open('FAO/fao_city.json', 'w') as outfile:
+#           json.dump(result, outfile, default=decimal_default)
 
 # save country feature
-# f = open('FAO/source/g2014_2013_0_mid/G2014_2013_0_mid.geojson')
-# objects = ijson.items(f, 'features.item')
-# create_folder('FAO/country')
-# for o in objects:
-#   country_name = o['properties']['ADM0_NAME']
-#   print 'Processing: ' + country_name
-#   for c in code_list:
-#     if o['properties']['ADM0_CODE'] == c:
-#       country_alpha_3 = get_fao_country_alpha_3(c)
-#       with open('FAO/country/'+country_alpha_3+'.json', 'w') as outfile:
-#         json.dump(o, outfile, default=decimal_default)
+f = open('FAO/source/g2014_2013_0_mid/G2014_2013_0_mid.geojson')
+objects = ijson.items(f, 'features.item')
+create_folder('FAO/country')
+for o in objects:
+  country_name = o['properties']['ADM0_NAME']
+  print 'Processing: ' + country_name
+  for c in code_list:
+    if o['properties']['ADM0_CODE'] == c:
+      country_alpha_3 = get_fao_country_alpha_3(c)
+      o['properties']['alpha-3'] = country_alpha_3
+      with open('FAO/country/'+country_alpha_3+'.json', 'w') as outfile:
+        json.dump(o, outfile, default=decimal_default)
 
 
 # save state feature

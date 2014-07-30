@@ -1,3 +1,10 @@
+### API
+#		1 indicator & 1 timestamp
+#		comparing countries
+# 	http://ocha.parseapp.com/getmapdata?period=2009&indid=CHD.B.FOS.04.T6
+#
+###
+
 import csv, json
 import sqlite3
 import os
